@@ -2,7 +2,7 @@
 
 # Memoteca
 
-Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
+Foi utilizado a aplicação Memoteca para implementar o CRUD com requisições HTTP. Memoteca é um aplicativo organizador de pensamentos e/ou frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
 ## 🔨 Funcionalidades do projeto
 
@@ -19,8 +19,6 @@ Memoteca é um aplicativo organizador de pensamentos e frases que permite cadast
 `JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
 
 `Fetch API`: Utilizada para realizar requisições HTTP para comunicação com o servidor.
-
-`Axios`: Biblioteca usada para facilitar e simplificar as requisições HTTP.
 
 `Node.js`: Plataforma utilizada para executar o ambiente de desenvolvimento.
 
