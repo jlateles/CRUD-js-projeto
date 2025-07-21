@@ -1,5 +1,3 @@
-![Thumbnail](./thumb.png)
-
 # Memoteca
 
 Foi utilizado a aplicação Memoteca para implementar o CRUD com requisições HTTP. Memoteca é um aplicativo organizador de pensamentos e/ou frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
@@ -42,10 +40,10 @@ npm start
 
 Acesse o backend localmente em seu navegador:
 
-http://localhost:3000
+<http://localhost:3000>
 
 Para executar o frontend, abra o projeto no Visual Studio Code. Com a extensão Live Server instalada, clique com o botão direito no arquivo index.html e selecione "Open with Live Server" no menu de contexto.
 
 Acesse o frontend localmente em seu navegador:
 
-http://localhost:5500
+<http://localhost:5500>
