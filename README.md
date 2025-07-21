@@ -1,8 +1,7 @@
-![Thumbnail](./thumb.png)
+## Memoteca
 
-# Memoteca
+Foi utilizado a aplicação Memoteca para implementar o CRUD com requisições HTTP. Memoteca é um aplicativo organizador de pensamentos e/ou frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
-Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar e deletar pensamentos, incluindo informações como conteúdo e autoria.
 
 ## 🔨 Funcionalidades do projeto
 
